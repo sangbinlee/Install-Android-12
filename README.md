@@ -26,5 +26,8 @@ Install Android 12
 # Smartphone Upgrade Guide
   https://www.youtube.com/watch?v=-FXJsEuikxM
 
+  https://www.youtube.com/watch?v=FYsI91wgW4o&t=73s
 
-  
+
+  ![image](https://github.com/user-attachments/assets/cc21014b-69cf-4906-b58e-53a02a1c89bd)
+
